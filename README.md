@@ -1,2 +1,2 @@
 # CYB-304
-Practical 
+Department : Cyber Security 
