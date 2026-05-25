@@ -1,2 +1,2 @@
 # CYB-304
-Department : Cyber Security 
+DEPARTMENT: CYBER SECURITY
